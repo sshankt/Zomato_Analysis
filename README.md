@@ -3,7 +3,7 @@
 ## 📄 Project Overview
 
 This project is a comprehensive analysis of Zomato’s restaurant data to identify key trends in customer preferences and restaurant performance. By answering critical business questions, this analysis provides actionable insights to help businesses grow strategically in the competitive food service industry.
-![Shopping Data Analysis](Zomato.jpg)
+![Zomato Data Analysis](Zomato.jpeg)
 ## 🔍 Key Questions Explored
 
 What type of restaurants do the majority of customers prefer?
